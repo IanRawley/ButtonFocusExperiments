@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonFocusExperiments", "ButtonFocusExperiments\ButtonFocusExperiments\ButtonFocusExperiments.csproj", "{9A5F97FA-2E5F-4736-8CA7-C94504A207E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonFocusExperiments.Android", "ButtonFocusExperiments\ButtonFocusExperiments.Android\ButtonFocusExperiments.Android.csproj", "{2FB4CDAA-E11F-4A2B-94DA-ADB0560DDC1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonFocusExperiments.Desktop", "ButtonFocusExperiments\ButtonFocusExperiments.Desktop\ButtonFocusExperiments.Desktop.csproj", "{92BDEED9-69AF-46A9-8565-54B7F39FAA0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonFocusExperiments.iOS", "ButtonFocusExperiments\ButtonFocusExperiments.iOS\ButtonFocusExperiments.iOS.csproj", "{521EAA20-AC07-4228-9610-DFE032CFAB37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonFocusExperiments.Browser", "ButtonFocusExperiments\ButtonFocusExperiments.Browser\ButtonFocusExperiments.Browser.csproj", "{F448E231-18FE-4A64-9CF9-CF2A80FFC3FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A5F97FA-2E5F-4736-8CA7-C94504A207E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A5F97FA-2E5F-4736-8CA7-C94504A207E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A5F97FA-2E5F-4736-8CA7-C94504A207E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A5F97FA-2E5F-4736-8CA7-C94504A207E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FB4CDAA-E11F-4A2B-94DA-ADB0560DDC1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FB4CDAA-E11F-4A2B-94DA-ADB0560DDC1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FB4CDAA-E11F-4A2B-94DA-ADB0560DDC1B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2FB4CDAA-E11F-4A2B-94DA-ADB0560DDC1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FB4CDAA-E11F-4A2B-94DA-ADB0560DDC1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FB4CDAA-E11F-4A2B-94DA-ADB0560DDC1B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{92BDEED9-69AF-46A9-8565-54B7F39FAA0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92BDEED9-69AF-46A9-8565-54B7F39FAA0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92BDEED9-69AF-46A9-8565-54B7F39FAA0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92BDEED9-69AF-46A9-8565-54B7F39FAA0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{521EAA20-AC07-4228-9610-DFE032CFAB37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{521EAA20-AC07-4228-9610-DFE032CFAB37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{521EAA20-AC07-4228-9610-DFE032CFAB37}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{521EAA20-AC07-4228-9610-DFE032CFAB37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{521EAA20-AC07-4228-9610-DFE032CFAB37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{521EAA20-AC07-4228-9610-DFE032CFAB37}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F448E231-18FE-4A64-9CF9-CF2A80FFC3FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F448E231-18FE-4A64-9CF9-CF2A80FFC3FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F448E231-18FE-4A64-9CF9-CF2A80FFC3FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F448E231-18FE-4A64-9CF9-CF2A80FFC3FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A031AA88-AE59-44A9-A45E-2FD191D1F3A1}
+	EndGlobalSection
+EndGlobal
